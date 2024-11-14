@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Henny-Penny'; /* Give the font a name */
+    src: url('fonts/HennyPenny-Regular.ttf') format('truetype'); /* Correct format and add missing semicolon */
+    font-weight: normal; /* Optional: set weight and style */
+    font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Henny-Penny', sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: 'Henny-Penny', sans-serif;
+}
