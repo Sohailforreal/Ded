@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Henny-Penny'; /* Give the font a name */
-    src: url('fonts/HennyPenny-Regular.ttf') format('truetype'); /* Correct format and add missing semicolon */
+    src: url('fonts/HennyPenny-Regular.woff2'); /* Correct format and add missing semicolon */
     font-weight: normal; /* Optional: set weight and style */
     font-style: normal;
 }
